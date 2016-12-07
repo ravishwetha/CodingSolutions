@@ -1,0 +1,37 @@
+Enter rows apart: Enter columns apart: N N E E E E E E E 
+N E N E E E E E E 
+N E E N E E E E E 
+N E E E N E E E E 
+N E E E E N E E E 
+N E E E E E N E E 
+N E E E E E E N E 
+N E E E E E E E N 
+E N N E E E E E E 
+E N E N E E E E E 
+E N E E N E E E E 
+E N E E E N E E E 
+E N E E E E N E E 
+E N E E E E E N E 
+E N E E E E E E N 
+E E N N E E E E E 
+E E N E N E E E E 
+E E N E E N E E E 
+E E N E E E N E E 
+E E N E E E E N E 
+E E N E E E E E N 
+E E E N N E E E E 
+E E E N E N E E E 
+E E E N E E N E E 
+E E E N E E E N E 
+E E E N E E E E N 
+E E E E N N E E E 
+E E E E N E N E E 
+E E E E N E E N E 
+E E E E N E E E N 
+E E E E E N N E E 
+E E E E E N E N E 
+E E E E E N E E N 
+E E E E E E N N E 
+E E E E E E N E N 
+E E E E E E E N N 
+Number of paths = 36

@@ -1,0 +1,923 @@
+100 4
+[ R823  R368  R487  C796  R970  C398  C472  C495  R723  R793  R209  R654  R128  R453  R510  R498  C923  R113  C395  R659  R65  C165  R437  C252  C11  R774  C406  C517  C487  R131  R766  C214  R420  C193  R544  C68  C465  R459  R496  R214  R976  R434  R475  R809  R496  C618  C131  C167  R573  R242  C32  R517  R403  C982  R291  C768  R598  C992  C206  R213  C653  R23  C798  R338  C199  R276  C329  C35  C115  C394  C963  R13  C824  R143  C672  R714  C690  R500  R383  C423  C609  R822  R322  C748  C289  C999  C29  R785  R659  C69  C755  C794  C9  R598  C655  R661  C338  C618  R113  C937 ]
+===============================================================================================
+limit = 4 sum = 937 max = 0 type = C units = 937
+limit = 4 sum = 1050 max = 0 type = R units = 113
+limit = 3 sum = 1668 max = 0 type = C units = 618
+limit = 3 sum = 2006 max = 0 type = C units = 338
+limit = 3 sum = 2667 max = 0 type = R units = 661
+limit = 2 sum = 3322 max = 0 type = C units = 655
+limit = 2 sum = 3920 max = 0 type = R units = 598
+limit = 1 sum = 3929 max = 0 type = C units = 9
+limit = 1 sum = 4723 max = 0 type = C units = 794
+limit = 1 sum = 5478 max = 0 type = C units = 755
+limit = 1 sum = 5547 max = 0 type = C units = 69
+limit = 1 sum = 6206 max = 0 type = R units = 659
+===============================================================================================
+limit = 4 sum = 113 max = 6206 type = R units = 113
+limit = 3 sum = 731 max = 6206 type = C units = 618
+limit = 3 sum = 1069 max = 6206 type = C units = 338
+limit = 3 sum = 1730 max = 6206 type = R units = 661
+limit = 2 sum = 2385 max = 6206 type = C units = 655
+limit = 2 sum = 2983 max = 6206 type = R units = 598
+limit = 1 sum = 2992 max = 6206 type = C units = 9
+limit = 1 sum = 3786 max = 6206 type = C units = 794
+limit = 1 sum = 4541 max = 6206 type = C units = 755
+limit = 1 sum = 4610 max = 6206 type = C units = 69
+limit = 1 sum = 5269 max = 6206 type = R units = 659
+===============================================================================================
+limit = 4 sum = 618 max = 6206 type = C units = 618
+limit = 4 sum = 956 max = 6206 type = C units = 338
+limit = 4 sum = 1617 max = 6206 type = R units = 661
+limit = 3 sum = 2272 max = 6206 type = C units = 655
+limit = 3 sum = 2870 max = 6206 type = R units = 598
+limit = 2 sum = 2879 max = 6206 type = C units = 9
+limit = 2 sum = 3673 max = 6206 type = C units = 794
+limit = 2 sum = 4428 max = 6206 type = C units = 755
+limit = 2 sum = 4497 max = 6206 type = C units = 69
+limit = 2 sum = 5156 max = 6206 type = R units = 659
+limit = 1 sum = 5941 max = 6206 type = R units = 785
+limit = 0 sum = 5999 max = 6206 type = C units = 29
+limit = 0 sum = 7997 max = 6206 type = C units = 999
+limit = 0 sum = 8575 max = 6206 type = C units = 289
+limit = 0 sum = 10071 max = 6206 type = C units = 748
+===============================================================================================
+limit = 4 sum = 338 max = 10071 type = C units = 338
+limit = 4 sum = 999 max = 10071 type = R units = 661
+limit = 3 sum = 1654 max = 10071 type = C units = 655
+limit = 3 sum = 2252 max = 10071 type = R units = 598
+limit = 2 sum = 2261 max = 10071 type = C units = 9
+limit = 2 sum = 3055 max = 10071 type = C units = 794
+limit = 2 sum = 3810 max = 10071 type = C units = 755
+limit = 2 sum = 3879 max = 10071 type = C units = 69
+limit = 2 sum = 4538 max = 10071 type = R units = 659
+limit = 1 sum = 5323 max = 10071 type = R units = 785
+limit = 0 sum = 5381 max = 10071 type = C units = 29
+limit = 0 sum = 7379 max = 10071 type = C units = 999
+limit = 0 sum = 7957 max = 10071 type = C units = 289
+limit = 0 sum = 9453 max = 10071 type = C units = 748
+===============================================================================================
+limit = 4 sum = 661 max = 10071 type = R units = 661
+limit = 3 sum = 1316 max = 10071 type = C units = 655
+limit = 3 sum = 1914 max = 10071 type = R units = 598
+limit = 2 sum = 1923 max = 10071 type = C units = 9
+limit = 2 sum = 2717 max = 10071 type = C units = 794
+limit = 2 sum = 3472 max = 10071 type = C units = 755
+limit = 2 sum = 3541 max = 10071 type = C units = 69
+limit = 2 sum = 4200 max = 10071 type = R units = 659
+limit = 1 sum = 4985 max = 10071 type = R units = 785
+limit = 0 sum = 5043 max = 10071 type = C units = 29
+limit = 0 sum = 7041 max = 10071 type = C units = 999
+limit = 0 sum = 7619 max = 10071 type = C units = 289
+limit = 0 sum = 9115 max = 10071 type = C units = 748
+===============================================================================================
+limit = 4 sum = 655 max = 10071 type = C units = 655
+limit = 4 sum = 1253 max = 10071 type = R units = 598
+limit = 3 sum = 1262 max = 10071 type = C units = 9
+limit = 3 sum = 2056 max = 10071 type = C units = 794
+limit = 3 sum = 2811 max = 10071 type = C units = 755
+limit = 3 sum = 2880 max = 10071 type = C units = 69
+limit = 3 sum = 3539 max = 10071 type = R units = 659
+limit = 2 sum = 4324 max = 10071 type = R units = 785
+limit = 1 sum = 4353 max = 10071 type = C units = 29
+limit = 1 sum = 5352 max = 10071 type = C units = 999
+limit = 1 sum = 5641 max = 10071 type = C units = 289
+limit = 1 sum = 6389 max = 10071 type = C units = 748
+limit = 1 sum = 6711 max = 10071 type = R units = 322
+===============================================================================================
+limit = 4 sum = 598 max = 10071 type = R units = 598
+limit = 3 sum = 607 max = 10071 type = C units = 9
+limit = 3 sum = 1401 max = 10071 type = C units = 794
+limit = 3 sum = 2156 max = 10071 type = C units = 755
+limit = 3 sum = 2225 max = 10071 type = C units = 69
+limit = 3 sum = 2884 max = 10071 type = R units = 659
+limit = 2 sum = 3669 max = 10071 type = R units = 785
+limit = 1 sum = 3698 max = 10071 type = C units = 29
+limit = 1 sum = 4697 max = 10071 type = C units = 999
+limit = 1 sum = 4986 max = 10071 type = C units = 289
+limit = 1 sum = 5734 max = 10071 type = C units = 748
+limit = 1 sum = 6056 max = 10071 type = R units = 322
+===============================================================================================
+limit = 4 sum = 9 max = 10071 type = C units = 9
+limit = 4 sum = 803 max = 10071 type = C units = 794
+limit = 4 sum = 1558 max = 10071 type = C units = 755
+limit = 4 sum = 1627 max = 10071 type = C units = 69
+limit = 4 sum = 2286 max = 10071 type = R units = 659
+limit = 3 sum = 3071 max = 10071 type = R units = 785
+limit = 2 sum = 3100 max = 10071 type = C units = 29
+limit = 2 sum = 4099 max = 10071 type = C units = 999
+limit = 2 sum = 4388 max = 10071 type = C units = 289
+limit = 2 sum = 5136 max = 10071 type = C units = 748
+limit = 2 sum = 5458 max = 10071 type = R units = 322
+limit = 1 sum = 6280 max = 10071 type = R units = 822
+limit = 0 sum = 7498 max = 10071 type = C units = 609
+limit = 0 sum = 8344 max = 10071 type = C units = 423
+===============================================================================================
+limit = 4 sum = 794 max = 10071 type = C units = 794
+limit = 4 sum = 1549 max = 10071 type = C units = 755
+limit = 4 sum = 1618 max = 10071 type = C units = 69
+limit = 4 sum = 2277 max = 10071 type = R units = 659
+limit = 3 sum = 3062 max = 10071 type = R units = 785
+limit = 2 sum = 3091 max = 10071 type = C units = 29
+limit = 2 sum = 4090 max = 10071 type = C units = 999
+limit = 2 sum = 4379 max = 10071 type = C units = 289
+limit = 2 sum = 5127 max = 10071 type = C units = 748
+limit = 2 sum = 5449 max = 10071 type = R units = 322
+limit = 1 sum = 6271 max = 10071 type = R units = 822
+limit = 0 sum = 7489 max = 10071 type = C units = 609
+limit = 0 sum = 8335 max = 10071 type = C units = 423
+===============================================================================================
+limit = 4 sum = 755 max = 10071 type = C units = 755
+limit = 4 sum = 824 max = 10071 type = C units = 69
+limit = 4 sum = 1483 max = 10071 type = R units = 659
+limit = 3 sum = 2268 max = 10071 type = R units = 785
+limit = 2 sum = 2297 max = 10071 type = C units = 29
+limit = 2 sum = 3296 max = 10071 type = C units = 999
+limit = 2 sum = 3585 max = 10071 type = C units = 289
+limit = 2 sum = 4333 max = 10071 type = C units = 748
+limit = 2 sum = 4655 max = 10071 type = R units = 322
+limit = 1 sum = 5477 max = 10071 type = R units = 822
+limit = 0 sum = 6695 max = 10071 type = C units = 609
+limit = 0 sum = 7541 max = 10071 type = C units = 423
+===============================================================================================
+limit = 4 sum = 69 max = 10071 type = C units = 69
+limit = 4 sum = 728 max = 10071 type = R units = 659
+limit = 3 sum = 1513 max = 10071 type = R units = 785
+limit = 2 sum = 1542 max = 10071 type = C units = 29
+limit = 2 sum = 2541 max = 10071 type = C units = 999
+limit = 2 sum = 2830 max = 10071 type = C units = 289
+limit = 2 sum = 3578 max = 10071 type = C units = 748
+limit = 2 sum = 3900 max = 10071 type = R units = 322
+limit = 1 sum = 4722 max = 10071 type = R units = 822
+limit = 0 sum = 5940 max = 10071 type = C units = 609
+limit = 0 sum = 6786 max = 10071 type = C units = 423
+===============================================================================================
+limit = 4 sum = 659 max = 10071 type = R units = 659
+limit = 3 sum = 1444 max = 10071 type = R units = 785
+limit = 2 sum = 1473 max = 10071 type = C units = 29
+limit = 2 sum = 2472 max = 10071 type = C units = 999
+limit = 2 sum = 2761 max = 10071 type = C units = 289
+limit = 2 sum = 3509 max = 10071 type = C units = 748
+limit = 2 sum = 3831 max = 10071 type = R units = 322
+limit = 1 sum = 4653 max = 10071 type = R units = 822
+limit = 0 sum = 5871 max = 10071 type = C units = 609
+limit = 0 sum = 6717 max = 10071 type = C units = 423
+===============================================================================================
+limit = 4 sum = 785 max = 10071 type = R units = 785
+limit = 3 sum = 814 max = 10071 type = C units = 29
+limit = 3 sum = 1813 max = 10071 type = C units = 999
+limit = 3 sum = 2102 max = 10071 type = C units = 289
+limit = 3 sum = 2850 max = 10071 type = C units = 748
+limit = 3 sum = 3172 max = 10071 type = R units = 322
+limit = 2 sum = 3994 max = 10071 type = R units = 822
+limit = 1 sum = 4603 max = 10071 type = C units = 609
+limit = 1 sum = 5026 max = 10071 type = C units = 423
+limit = 1 sum = 5409 max = 10071 type = R units = 383
+===============================================================================================
+limit = 4 sum = 29 max = 10071 type = C units = 29
+limit = 4 sum = 1028 max = 10071 type = C units = 999
+limit = 4 sum = 1317 max = 10071 type = C units = 289
+limit = 4 sum = 2065 max = 10071 type = C units = 748
+limit = 4 sum = 2387 max = 10071 type = R units = 322
+limit = 3 sum = 3209 max = 10071 type = R units = 822
+limit = 2 sum = 3818 max = 10071 type = C units = 609
+limit = 2 sum = 4241 max = 10071 type = C units = 423
+limit = 2 sum = 4624 max = 10071 type = R units = 383
+limit = 1 sum = 5124 max = 10071 type = R units = 500
+limit = 0 sum = 6504 max = 10071 type = C units = 690
+===============================================================================================
+limit = 4 sum = 999 max = 10071 type = C units = 999
+limit = 4 sum = 1288 max = 10071 type = C units = 289
+limit = 4 sum = 2036 max = 10071 type = C units = 748
+limit = 4 sum = 2358 max = 10071 type = R units = 322
+limit = 3 sum = 3180 max = 10071 type = R units = 822
+limit = 2 sum = 3789 max = 10071 type = C units = 609
+limit = 2 sum = 4212 max = 10071 type = C units = 423
+limit = 2 sum = 4595 max = 10071 type = R units = 383
+limit = 1 sum = 5095 max = 10071 type = R units = 500
+limit = 0 sum = 6475 max = 10071 type = C units = 690
+===============================================================================================
+limit = 4 sum = 289 max = 10071 type = C units = 289
+limit = 4 sum = 1037 max = 10071 type = C units = 748
+limit = 4 sum = 1359 max = 10071 type = R units = 322
+limit = 3 sum = 2181 max = 10071 type = R units = 822
+limit = 2 sum = 2790 max = 10071 type = C units = 609
+limit = 2 sum = 3213 max = 10071 type = C units = 423
+limit = 2 sum = 3596 max = 10071 type = R units = 383
+limit = 1 sum = 4096 max = 10071 type = R units = 500
+limit = 0 sum = 5476 max = 10071 type = C units = 690
+===============================================================================================
+limit = 4 sum = 748 max = 10071 type = C units = 748
+limit = 4 sum = 1070 max = 10071 type = R units = 322
+limit = 3 sum = 1892 max = 10071 type = R units = 822
+limit = 2 sum = 2501 max = 10071 type = C units = 609
+limit = 2 sum = 2924 max = 10071 type = C units = 423
+limit = 2 sum = 3307 max = 10071 type = R units = 383
+limit = 1 sum = 3807 max = 10071 type = R units = 500
+limit = 0 sum = 5187 max = 10071 type = C units = 690
+===============================================================================================
+limit = 4 sum = 322 max = 10071 type = R units = 322
+limit = 3 sum = 1144 max = 10071 type = R units = 822
+limit = 2 sum = 1753 max = 10071 type = C units = 609
+limit = 2 sum = 2176 max = 10071 type = C units = 423
+limit = 2 sum = 2559 max = 10071 type = R units = 383
+limit = 1 sum = 3059 max = 10071 type = R units = 500
+limit = 0 sum = 4439 max = 10071 type = C units = 690
+===============================================================================================
+limit = 4 sum = 822 max = 10071 type = R units = 822
+limit = 3 sum = 1431 max = 10071 type = C units = 609
+limit = 3 sum = 1854 max = 10071 type = C units = 423
+limit = 3 sum = 2237 max = 10071 type = R units = 383
+limit = 2 sum = 2737 max = 10071 type = R units = 500
+limit = 1 sum = 3427 max = 10071 type = C units = 690
+limit = 1 sum = 4141 max = 10071 type = R units = 714
+limit = 0 sum = 5485 max = 10071 type = C units = 672
+===============================================================================================
+limit = 4 sum = 609 max = 10071 type = C units = 609
+limit = 4 sum = 1032 max = 10071 type = C units = 423
+limit = 4 sum = 1415 max = 10071 type = R units = 383
+limit = 3 sum = 1915 max = 10071 type = R units = 500
+limit = 2 sum = 2605 max = 10071 type = C units = 690
+limit = 2 sum = 3319 max = 10071 type = R units = 714
+limit = 1 sum = 3991 max = 10071 type = C units = 672
+limit = 1 sum = 4134 max = 10071 type = R units = 143
+limit = 0 sum = 5782 max = 10071 type = C units = 824
+===============================================================================================
+limit = 4 sum = 423 max = 10071 type = C units = 423
+limit = 4 sum = 806 max = 10071 type = R units = 383
+limit = 3 sum = 1306 max = 10071 type = R units = 500
+limit = 2 sum = 1996 max = 10071 type = C units = 690
+limit = 2 sum = 2710 max = 10071 type = R units = 714
+limit = 1 sum = 3382 max = 10071 type = C units = 672
+limit = 1 sum = 3525 max = 10071 type = R units = 143
+limit = 0 sum = 5173 max = 10071 type = C units = 824
+===============================================================================================
+limit = 4 sum = 383 max = 10071 type = R units = 383
+limit = 3 sum = 883 max = 10071 type = R units = 500
+limit = 2 sum = 1573 max = 10071 type = C units = 690
+limit = 2 sum = 2287 max = 10071 type = R units = 714
+limit = 1 sum = 2959 max = 10071 type = C units = 672
+limit = 1 sum = 3102 max = 10071 type = R units = 143
+limit = 0 sum = 4750 max = 10071 type = C units = 824
+===============================================================================================
+limit = 4 sum = 500 max = 10071 type = R units = 500
+limit = 3 sum = 1190 max = 10071 type = C units = 690
+limit = 3 sum = 1904 max = 10071 type = R units = 714
+limit = 2 sum = 2576 max = 10071 type = C units = 672
+limit = 2 sum = 2719 max = 10071 type = R units = 143
+limit = 1 sum = 3543 max = 10071 type = C units = 824
+limit = 1 sum = 3556 max = 10071 type = R units = 13
+limit = 0 sum = 5482 max = 10071 type = C units = 963
+limit = 0 sum = 6270 max = 10071 type = C units = 394
+limit = 0 sum = 6500 max = 10071 type = C units = 115
+limit = 0 sum = 6570 max = 10071 type = C units = 35
+limit = 0 sum = 7228 max = 10071 type = C units = 329
+===============================================================================================
+limit = 4 sum = 690 max = 10071 type = C units = 690
+limit = 4 sum = 1404 max = 10071 type = R units = 714
+limit = 3 sum = 2076 max = 10071 type = C units = 672
+limit = 3 sum = 2219 max = 10071 type = R units = 143
+limit = 2 sum = 3043 max = 10071 type = C units = 824
+limit = 2 sum = 3056 max = 10071 type = R units = 13
+limit = 1 sum = 4019 max = 10071 type = C units = 963
+limit = 1 sum = 4413 max = 10071 type = C units = 394
+limit = 1 sum = 4528 max = 10071 type = C units = 115
+limit = 1 sum = 4563 max = 10071 type = C units = 35
+limit = 1 sum = 4892 max = 10071 type = C units = 329
+limit = 1 sum = 5168 max = 10071 type = R units = 276
+limit = 0 sum = 5566 max = 10071 type = C units = 199
+===============================================================================================
+limit = 4 sum = 714 max = 10071 type = R units = 714
+limit = 3 sum = 1386 max = 10071 type = C units = 672
+limit = 3 sum = 1529 max = 10071 type = R units = 143
+limit = 2 sum = 2353 max = 10071 type = C units = 824
+limit = 2 sum = 2366 max = 10071 type = R units = 13
+limit = 1 sum = 3329 max = 10071 type = C units = 963
+limit = 1 sum = 3723 max = 10071 type = C units = 394
+limit = 1 sum = 3838 max = 10071 type = C units = 115
+limit = 1 sum = 3873 max = 10071 type = C units = 35
+limit = 1 sum = 4202 max = 10071 type = C units = 329
+limit = 1 sum = 4478 max = 10071 type = R units = 276
+limit = 0 sum = 4876 max = 10071 type = C units = 199
+===============================================================================================
+limit = 4 sum = 672 max = 10071 type = C units = 672
+limit = 4 sum = 815 max = 10071 type = R units = 143
+limit = 3 sum = 1639 max = 10071 type = C units = 824
+limit = 3 sum = 1652 max = 10071 type = R units = 13
+limit = 2 sum = 2615 max = 10071 type = C units = 963
+limit = 2 sum = 3009 max = 10071 type = C units = 394
+limit = 2 sum = 3124 max = 10071 type = C units = 115
+limit = 2 sum = 3159 max = 10071 type = C units = 35
+limit = 2 sum = 3488 max = 10071 type = C units = 329
+limit = 2 sum = 3764 max = 10071 type = R units = 276
+limit = 1 sum = 3963 max = 10071 type = C units = 199
+limit = 1 sum = 4301 max = 10071 type = R units = 338
+limit = 0 sum = 5897 max = 10071 type = C units = 798
+===============================================================================================
+limit = 4 sum = 143 max = 10071 type = R units = 143
+limit = 3 sum = 967 max = 10071 type = C units = 824
+limit = 3 sum = 980 max = 10071 type = R units = 13
+limit = 2 sum = 1943 max = 10071 type = C units = 963
+limit = 2 sum = 2337 max = 10071 type = C units = 394
+limit = 2 sum = 2452 max = 10071 type = C units = 115
+limit = 2 sum = 2487 max = 10071 type = C units = 35
+limit = 2 sum = 2816 max = 10071 type = C units = 329
+limit = 2 sum = 3092 max = 10071 type = R units = 276
+limit = 1 sum = 3291 max = 10071 type = C units = 199
+limit = 1 sum = 3629 max = 10071 type = R units = 338
+limit = 0 sum = 5225 max = 10071 type = C units = 798
+===============================================================================================
+limit = 4 sum = 824 max = 10071 type = C units = 824
+limit = 4 sum = 837 max = 10071 type = R units = 13
+limit = 3 sum = 1800 max = 10071 type = C units = 963
+limit = 3 sum = 2194 max = 10071 type = C units = 394
+limit = 3 sum = 2309 max = 10071 type = C units = 115
+limit = 3 sum = 2344 max = 10071 type = C units = 35
+limit = 3 sum = 2673 max = 10071 type = C units = 329
+limit = 3 sum = 2949 max = 10071 type = R units = 276
+limit = 2 sum = 3148 max = 10071 type = C units = 199
+limit = 2 sum = 3486 max = 10071 type = R units = 338
+limit = 1 sum = 4284 max = 10071 type = C units = 798
+limit = 1 sum = 4307 max = 10071 type = R units = 23
+limit = 0 sum = 5613 max = 10071 type = C units = 653
+===============================================================================================
+limit = 4 sum = 13 max = 10071 type = R units = 13
+limit = 3 sum = 976 max = 10071 type = C units = 963
+limit = 3 sum = 1370 max = 10071 type = C units = 394
+limit = 3 sum = 1485 max = 10071 type = C units = 115
+limit = 3 sum = 1520 max = 10071 type = C units = 35
+limit = 3 sum = 1849 max = 10071 type = C units = 329
+limit = 3 sum = 2125 max = 10071 type = R units = 276
+limit = 2 sum = 2324 max = 10071 type = C units = 199
+limit = 2 sum = 2662 max = 10071 type = R units = 338
+limit = 1 sum = 3460 max = 10071 type = C units = 798
+limit = 1 sum = 3483 max = 10071 type = R units = 23
+limit = 0 sum = 4789 max = 10071 type = C units = 653
+===============================================================================================
+limit = 4 sum = 963 max = 10071 type = C units = 963
+limit = 4 sum = 1357 max = 10071 type = C units = 394
+limit = 4 sum = 1472 max = 10071 type = C units = 115
+limit = 4 sum = 1507 max = 10071 type = C units = 35
+limit = 4 sum = 1836 max = 10071 type = C units = 329
+limit = 4 sum = 2112 max = 10071 type = R units = 276
+limit = 3 sum = 2311 max = 10071 type = C units = 199
+limit = 3 sum = 2649 max = 10071 type = R units = 338
+limit = 2 sum = 3447 max = 10071 type = C units = 798
+limit = 2 sum = 3470 max = 10071 type = R units = 23
+limit = 1 sum = 4123 max = 10071 type = C units = 653
+limit = 1 sum = 4336 max = 10071 type = R units = 213
+limit = 0 sum = 4748 max = 10071 type = C units = 206
+limit = 0 sum = 6732 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 394 max = 10071 type = C units = 394
+limit = 4 sum = 509 max = 10071 type = C units = 115
+limit = 4 sum = 544 max = 10071 type = C units = 35
+limit = 4 sum = 873 max = 10071 type = C units = 329
+limit = 4 sum = 1149 max = 10071 type = R units = 276
+limit = 3 sum = 1348 max = 10071 type = C units = 199
+limit = 3 sum = 1686 max = 10071 type = R units = 338
+limit = 2 sum = 2484 max = 10071 type = C units = 798
+limit = 2 sum = 2507 max = 10071 type = R units = 23
+limit = 1 sum = 3160 max = 10071 type = C units = 653
+limit = 1 sum = 3373 max = 10071 type = R units = 213
+limit = 0 sum = 3785 max = 10071 type = C units = 206
+limit = 0 sum = 5769 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 115 max = 10071 type = C units = 115
+limit = 4 sum = 150 max = 10071 type = C units = 35
+limit = 4 sum = 479 max = 10071 type = C units = 329
+limit = 4 sum = 755 max = 10071 type = R units = 276
+limit = 3 sum = 954 max = 10071 type = C units = 199
+limit = 3 sum = 1292 max = 10071 type = R units = 338
+limit = 2 sum = 2090 max = 10071 type = C units = 798
+limit = 2 sum = 2113 max = 10071 type = R units = 23
+limit = 1 sum = 2766 max = 10071 type = C units = 653
+limit = 1 sum = 2979 max = 10071 type = R units = 213
+limit = 0 sum = 3391 max = 10071 type = C units = 206
+limit = 0 sum = 5375 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 35 max = 10071 type = C units = 35
+limit = 4 sum = 364 max = 10071 type = C units = 329
+limit = 4 sum = 640 max = 10071 type = R units = 276
+limit = 3 sum = 839 max = 10071 type = C units = 199
+limit = 3 sum = 1177 max = 10071 type = R units = 338
+limit = 2 sum = 1975 max = 10071 type = C units = 798
+limit = 2 sum = 1998 max = 10071 type = R units = 23
+limit = 1 sum = 2651 max = 10071 type = C units = 653
+limit = 1 sum = 2864 max = 10071 type = R units = 213
+limit = 0 sum = 3276 max = 10071 type = C units = 206
+limit = 0 sum = 5260 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 329 max = 10071 type = C units = 329
+limit = 4 sum = 605 max = 10071 type = R units = 276
+limit = 3 sum = 804 max = 10071 type = C units = 199
+limit = 3 sum = 1142 max = 10071 type = R units = 338
+limit = 2 sum = 1940 max = 10071 type = C units = 798
+limit = 2 sum = 1963 max = 10071 type = R units = 23
+limit = 1 sum = 2616 max = 10071 type = C units = 653
+limit = 1 sum = 2829 max = 10071 type = R units = 213
+limit = 0 sum = 3241 max = 10071 type = C units = 206
+limit = 0 sum = 5225 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 276 max = 10071 type = R units = 276
+limit = 3 sum = 475 max = 10071 type = C units = 199
+limit = 3 sum = 813 max = 10071 type = R units = 338
+limit = 2 sum = 1611 max = 10071 type = C units = 798
+limit = 2 sum = 1634 max = 10071 type = R units = 23
+limit = 1 sum = 2287 max = 10071 type = C units = 653
+limit = 1 sum = 2500 max = 10071 type = R units = 213
+limit = 0 sum = 2912 max = 10071 type = C units = 206
+limit = 0 sum = 4896 max = 10071 type = C units = 992
+===============================================================================================
+limit = 4 sum = 199 max = 10071 type = C units = 199
+limit = 4 sum = 537 max = 10071 type = R units = 338
+limit = 3 sum = 1335 max = 10071 type = C units = 798
+limit = 3 sum = 1358 max = 10071 type = R units = 23
+limit = 2 sum = 2011 max = 10071 type = C units = 653
+limit = 2 sum = 2224 max = 10071 type = R units = 213
+limit = 1 sum = 2430 max = 10071 type = C units = 206
+limit = 1 sum = 3422 max = 10071 type = C units = 992
+limit = 1 sum = 4020 max = 10071 type = R units = 598
+limit = 0 sum = 5556 max = 10071 type = C units = 768
+===============================================================================================
+limit = 4 sum = 338 max = 10071 type = R units = 338
+limit = 3 sum = 1136 max = 10071 type = C units = 798
+limit = 3 sum = 1159 max = 10071 type = R units = 23
+limit = 2 sum = 1812 max = 10071 type = C units = 653
+limit = 2 sum = 2025 max = 10071 type = R units = 213
+limit = 1 sum = 2231 max = 10071 type = C units = 206
+limit = 1 sum = 3223 max = 10071 type = C units = 992
+limit = 1 sum = 3821 max = 10071 type = R units = 598
+limit = 0 sum = 5357 max = 10071 type = C units = 768
+===============================================================================================
+limit = 4 sum = 798 max = 10071 type = C units = 798
+limit = 4 sum = 821 max = 10071 type = R units = 23
+limit = 3 sum = 1474 max = 10071 type = C units = 653
+limit = 3 sum = 1687 max = 10071 type = R units = 213
+limit = 2 sum = 1893 max = 10071 type = C units = 206
+limit = 2 sum = 2885 max = 10071 type = C units = 992
+limit = 2 sum = 3483 max = 10071 type = R units = 598
+limit = 1 sum = 4251 max = 10071 type = C units = 768
+limit = 1 sum = 4542 max = 10071 type = R units = 291
+limit = 0 sum = 6506 max = 10071 type = C units = 982
+===============================================================================================
+limit = 4 sum = 23 max = 10071 type = R units = 23
+limit = 3 sum = 676 max = 10071 type = C units = 653
+limit = 3 sum = 889 max = 10071 type = R units = 213
+limit = 2 sum = 1095 max = 10071 type = C units = 206
+limit = 2 sum = 2087 max = 10071 type = C units = 992
+limit = 2 sum = 2685 max = 10071 type = R units = 598
+limit = 1 sum = 3453 max = 10071 type = C units = 768
+limit = 1 sum = 3744 max = 10071 type = R units = 291
+limit = 0 sum = 5708 max = 10071 type = C units = 982
+===============================================================================================
+limit = 4 sum = 653 max = 10071 type = C units = 653
+limit = 4 sum = 866 max = 10071 type = R units = 213
+limit = 3 sum = 1072 max = 10071 type = C units = 206
+limit = 3 sum = 2064 max = 10071 type = C units = 992
+limit = 3 sum = 2662 max = 10071 type = R units = 598
+limit = 2 sum = 3430 max = 10071 type = C units = 768
+limit = 2 sum = 3721 max = 10071 type = R units = 291
+limit = 1 sum = 4703 max = 10071 type = C units = 982
+limit = 1 sum = 5106 max = 10071 type = R units = 403
+===============================================================================================
+limit = 4 sum = 213 max = 10071 type = R units = 213
+limit = 3 sum = 419 max = 10071 type = C units = 206
+limit = 3 sum = 1411 max = 10071 type = C units = 992
+limit = 3 sum = 2009 max = 10071 type = R units = 598
+limit = 2 sum = 2777 max = 10071 type = C units = 768
+limit = 2 sum = 3068 max = 10071 type = R units = 291
+limit = 1 sum = 4050 max = 10071 type = C units = 982
+limit = 1 sum = 4453 max = 10071 type = R units = 403
+===============================================================================================
+limit = 4 sum = 206 max = 10071 type = C units = 206
+limit = 4 sum = 1198 max = 10071 type = C units = 992
+limit = 4 sum = 1796 max = 10071 type = R units = 598
+limit = 3 sum = 2564 max = 10071 type = C units = 768
+limit = 3 sum = 2855 max = 10071 type = R units = 291
+limit = 2 sum = 3837 max = 10071 type = C units = 982
+limit = 2 sum = 4240 max = 10071 type = R units = 403
+limit = 1 sum = 4757 max = 10071 type = R units = 517
+===============================================================================================
+limit = 4 sum = 992 max = 10071 type = C units = 992
+limit = 4 sum = 1590 max = 10071 type = R units = 598
+limit = 3 sum = 2358 max = 10071 type = C units = 768
+limit = 3 sum = 2649 max = 10071 type = R units = 291
+limit = 2 sum = 3631 max = 10071 type = C units = 982
+limit = 2 sum = 4034 max = 10071 type = R units = 403
+limit = 1 sum = 4551 max = 10071 type = R units = 517
+===============================================================================================
+limit = 4 sum = 598 max = 10071 type = R units = 598
+limit = 3 sum = 1366 max = 10071 type = C units = 768
+limit = 3 sum = 1657 max = 10071 type = R units = 291
+limit = 2 sum = 2639 max = 10071 type = C units = 982
+limit = 2 sum = 3042 max = 10071 type = R units = 403
+limit = 1 sum = 3559 max = 10071 type = R units = 517
+===============================================================================================
+limit = 4 sum = 768 max = 10071 type = C units = 768
+limit = 4 sum = 1059 max = 10071 type = R units = 291
+limit = 3 sum = 2041 max = 10071 type = C units = 982
+limit = 3 sum = 2444 max = 10071 type = R units = 403
+limit = 2 sum = 2961 max = 10071 type = R units = 517
+limit = 1 sum = 3203 max = 10071 type = R units = 242
+limit = 0 sum = 3267 max = 10071 type = C units = 32
+===============================================================================================
+limit = 4 sum = 291 max = 10071 type = R units = 291
+limit = 3 sum = 1273 max = 10071 type = C units = 982
+limit = 3 sum = 1676 max = 10071 type = R units = 403
+limit = 2 sum = 2193 max = 10071 type = R units = 517
+limit = 1 sum = 2435 max = 10071 type = R units = 242
+limit = 0 sum = 2499 max = 10071 type = C units = 32
+===============================================================================================
+limit = 4 sum = 982 max = 10071 type = C units = 982
+limit = 4 sum = 1385 max = 10071 type = R units = 403
+limit = 3 sum = 1902 max = 10071 type = R units = 517
+limit = 2 sum = 2144 max = 10071 type = R units = 242
+limit = 1 sum = 2176 max = 10071 type = C units = 32
+limit = 1 sum = 2749 max = 10071 type = R units = 573
+limit = 0 sum = 3083 max = 10071 type = C units = 167
+limit = 0 sum = 3345 max = 10071 type = C units = 131
+limit = 0 sum = 4581 max = 10071 type = C units = 618
+===============================================================================================
+limit = 4 sum = 403 max = 10071 type = R units = 403
+limit = 3 sum = 920 max = 10071 type = R units = 517
+limit = 2 sum = 1162 max = 10071 type = R units = 242
+limit = 1 sum = 1194 max = 10071 type = C units = 32
+limit = 1 sum = 1767 max = 10071 type = R units = 573
+limit = 0 sum = 2101 max = 10071 type = C units = 167
+limit = 0 sum = 2363 max = 10071 type = C units = 131
+limit = 0 sum = 3599 max = 10071 type = C units = 618
+===============================================================================================
+limit = 4 sum = 517 max = 10071 type = R units = 517
+limit = 3 sum = 759 max = 10071 type = R units = 242
+limit = 2 sum = 791 max = 10071 type = C units = 32
+limit = 2 sum = 1364 max = 10071 type = R units = 573
+limit = 1 sum = 1531 max = 10071 type = C units = 167
+limit = 1 sum = 1662 max = 10071 type = C units = 131
+limit = 1 sum = 2280 max = 10071 type = C units = 618
+limit = 1 sum = 2776 max = 10071 type = R units = 496
+===============================================================================================
+limit = 4 sum = 242 max = 10071 type = R units = 242
+limit = 3 sum = 274 max = 10071 type = C units = 32
+limit = 3 sum = 847 max = 10071 type = R units = 573
+limit = 2 sum = 1014 max = 10071 type = C units = 167
+limit = 2 sum = 1145 max = 10071 type = C units = 131
+limit = 2 sum = 1763 max = 10071 type = C units = 618
+limit = 2 sum = 2259 max = 10071 type = R units = 496
+limit = 1 sum = 3068 max = 10071 type = R units = 809
+===============================================================================================
+limit = 4 sum = 32 max = 10071 type = C units = 32
+limit = 4 sum = 605 max = 10071 type = R units = 573
+limit = 3 sum = 772 max = 10071 type = C units = 167
+limit = 3 sum = 903 max = 10071 type = C units = 131
+limit = 3 sum = 1521 max = 10071 type = C units = 618
+limit = 3 sum = 2017 max = 10071 type = R units = 496
+limit = 2 sum = 2826 max = 10071 type = R units = 809
+limit = 1 sum = 3301 max = 10071 type = R units = 475
+===============================================================================================
+limit = 4 sum = 573 max = 10071 type = R units = 573
+limit = 3 sum = 740 max = 10071 type = C units = 167
+limit = 3 sum = 871 max = 10071 type = C units = 131
+limit = 3 sum = 1489 max = 10071 type = C units = 618
+limit = 3 sum = 1985 max = 10071 type = R units = 496
+limit = 2 sum = 2794 max = 10071 type = R units = 809
+limit = 1 sum = 3269 max = 10071 type = R units = 475
+===============================================================================================
+limit = 4 sum = 167 max = 10071 type = C units = 167
+limit = 4 sum = 298 max = 10071 type = C units = 131
+limit = 4 sum = 916 max = 10071 type = C units = 618
+limit = 4 sum = 1412 max = 10071 type = R units = 496
+limit = 3 sum = 2221 max = 10071 type = R units = 809
+limit = 2 sum = 2696 max = 10071 type = R units = 475
+limit = 1 sum = 3130 max = 10071 type = R units = 434
+===============================================================================================
+limit = 4 sum = 131 max = 10071 type = C units = 131
+limit = 4 sum = 749 max = 10071 type = C units = 618
+limit = 4 sum = 1245 max = 10071 type = R units = 496
+limit = 3 sum = 2054 max = 10071 type = R units = 809
+limit = 2 sum = 2529 max = 10071 type = R units = 475
+limit = 1 sum = 2963 max = 10071 type = R units = 434
+===============================================================================================
+limit = 4 sum = 618 max = 10071 type = C units = 618
+limit = 4 sum = 1114 max = 10071 type = R units = 496
+limit = 3 sum = 1923 max = 10071 type = R units = 809
+limit = 2 sum = 2398 max = 10071 type = R units = 475
+limit = 1 sum = 2832 max = 10071 type = R units = 434
+===============================================================================================
+limit = 4 sum = 496 max = 10071 type = R units = 496
+limit = 3 sum = 1305 max = 10071 type = R units = 809
+limit = 2 sum = 1780 max = 10071 type = R units = 475
+limit = 1 sum = 2214 max = 10071 type = R units = 434
+===============================================================================================
+limit = 4 sum = 809 max = 10071 type = R units = 809
+limit = 3 sum = 1284 max = 10071 type = R units = 475
+limit = 2 sum = 1718 max = 10071 type = R units = 434
+limit = 1 sum = 2694 max = 10071 type = R units = 976
+===============================================================================================
+limit = 4 sum = 475 max = 10071 type = R units = 475
+limit = 3 sum = 909 max = 10071 type = R units = 434
+limit = 2 sum = 1885 max = 10071 type = R units = 976
+limit = 1 sum = 2099 max = 10071 type = R units = 214
+===============================================================================================
+limit = 4 sum = 434 max = 10071 type = R units = 434
+limit = 3 sum = 1410 max = 10071 type = R units = 976
+limit = 2 sum = 1624 max = 10071 type = R units = 214
+limit = 1 sum = 2120 max = 10071 type = R units = 496
+===============================================================================================
+limit = 4 sum = 976 max = 10071 type = R units = 976
+limit = 3 sum = 1190 max = 10071 type = R units = 214
+limit = 2 sum = 1686 max = 10071 type = R units = 496
+limit = 1 sum = 2145 max = 10071 type = R units = 459
+limit = 0 sum = 3075 max = 10071 type = C units = 465
+limit = 0 sum = 3211 max = 10071 type = C units = 68
+===============================================================================================
+limit = 4 sum = 214 max = 10071 type = R units = 214
+limit = 3 sum = 710 max = 10071 type = R units = 496
+limit = 2 sum = 1169 max = 10071 type = R units = 459
+limit = 1 sum = 1634 max = 10071 type = C units = 465
+limit = 1 sum = 1702 max = 10071 type = C units = 68
+limit = 1 sum = 2246 max = 10071 type = R units = 544
+limit = 0 sum = 2632 max = 10071 type = C units = 193
+===============================================================================================
+limit = 4 sum = 496 max = 10071 type = R units = 496
+limit = 3 sum = 955 max = 10071 type = R units = 459
+limit = 2 sum = 1420 max = 10071 type = C units = 465
+limit = 2 sum = 1488 max = 10071 type = C units = 68
+limit = 2 sum = 2032 max = 10071 type = R units = 544
+limit = 1 sum = 2225 max = 10071 type = C units = 193
+limit = 1 sum = 2645 max = 10071 type = R units = 420
+limit = 0 sum = 3073 max = 10071 type = C units = 214
+===============================================================================================
+limit = 4 sum = 459 max = 10071 type = R units = 459
+limit = 3 sum = 924 max = 10071 type = C units = 465
+limit = 3 sum = 992 max = 10071 type = C units = 68
+limit = 3 sum = 1536 max = 10071 type = R units = 544
+limit = 2 sum = 1729 max = 10071 type = C units = 193
+limit = 2 sum = 2149 max = 10071 type = R units = 420
+limit = 1 sum = 2363 max = 10071 type = C units = 214
+limit = 1 sum = 3129 max = 10071 type = R units = 766
+===============================================================================================
+limit = 4 sum = 465 max = 10071 type = C units = 465
+limit = 4 sum = 533 max = 10071 type = C units = 68
+limit = 4 sum = 1077 max = 10071 type = R units = 544
+limit = 3 sum = 1270 max = 10071 type = C units = 193
+limit = 3 sum = 1690 max = 10071 type = R units = 420
+limit = 2 sum = 1904 max = 10071 type = C units = 214
+limit = 2 sum = 2670 max = 10071 type = R units = 766
+limit = 1 sum = 2801 max = 10071 type = R units = 131
+limit = 0 sum = 3775 max = 10071 type = C units = 487
+limit = 0 sum = 4809 max = 10071 type = C units = 517
+limit = 0 sum = 5621 max = 10071 type = C units = 406
+===============================================================================================
+limit = 4 sum = 68 max = 10071 type = C units = 68
+limit = 4 sum = 612 max = 10071 type = R units = 544
+limit = 3 sum = 805 max = 10071 type = C units = 193
+limit = 3 sum = 1225 max = 10071 type = R units = 420
+limit = 2 sum = 1439 max = 10071 type = C units = 214
+limit = 2 sum = 2205 max = 10071 type = R units = 766
+limit = 1 sum = 2336 max = 10071 type = R units = 131
+limit = 0 sum = 3310 max = 10071 type = C units = 487
+limit = 0 sum = 4344 max = 10071 type = C units = 517
+limit = 0 sum = 5156 max = 10071 type = C units = 406
+===============================================================================================
+limit = 4 sum = 544 max = 10071 type = R units = 544
+limit = 3 sum = 737 max = 10071 type = C units = 193
+limit = 3 sum = 1157 max = 10071 type = R units = 420
+limit = 2 sum = 1371 max = 10071 type = C units = 214
+limit = 2 sum = 2137 max = 10071 type = R units = 766
+limit = 1 sum = 2268 max = 10071 type = R units = 131
+limit = 0 sum = 3242 max = 10071 type = C units = 487
+limit = 0 sum = 4276 max = 10071 type = C units = 517
+limit = 0 sum = 5088 max = 10071 type = C units = 406
+===============================================================================================
+limit = 4 sum = 193 max = 10071 type = C units = 193
+limit = 4 sum = 613 max = 10071 type = R units = 420
+limit = 3 sum = 827 max = 10071 type = C units = 214
+limit = 3 sum = 1593 max = 10071 type = R units = 766
+limit = 2 sum = 1724 max = 10071 type = R units = 131
+limit = 1 sum = 2211 max = 10071 type = C units = 487
+limit = 1 sum = 2728 max = 10071 type = C units = 517
+limit = 1 sum = 3134 max = 10071 type = C units = 406
+limit = 1 sum = 3908 max = 10071 type = R units = 774
+limit = 0 sum = 3930 max = 10071 type = C units = 11
+limit = 0 sum = 4434 max = 10071 type = C units = 252
+===============================================================================================
+limit = 4 sum = 420 max = 10071 type = R units = 420
+limit = 3 sum = 634 max = 10071 type = C units = 214
+limit = 3 sum = 1400 max = 10071 type = R units = 766
+limit = 2 sum = 1531 max = 10071 type = R units = 131
+limit = 1 sum = 2018 max = 10071 type = C units = 487
+limit = 1 sum = 2535 max = 10071 type = C units = 517
+limit = 1 sum = 2941 max = 10071 type = C units = 406
+limit = 1 sum = 3715 max = 10071 type = R units = 774
+limit = 0 sum = 3737 max = 10071 type = C units = 11
+limit = 0 sum = 4241 max = 10071 type = C units = 252
+===============================================================================================
+limit = 4 sum = 214 max = 10071 type = C units = 214
+limit = 4 sum = 980 max = 10071 type = R units = 766
+limit = 3 sum = 1111 max = 10071 type = R units = 131
+limit = 2 sum = 1598 max = 10071 type = C units = 487
+limit = 2 sum = 2115 max = 10071 type = C units = 517
+limit = 2 sum = 2521 max = 10071 type = C units = 406
+limit = 2 sum = 3295 max = 10071 type = R units = 774
+limit = 1 sum = 3306 max = 10071 type = C units = 11
+limit = 1 sum = 3558 max = 10071 type = C units = 252
+limit = 1 sum = 3995 max = 10071 type = R units = 437
+limit = 0 sum = 4325 max = 10071 type = C units = 165
+===============================================================================================
+limit = 4 sum = 766 max = 10071 type = R units = 766
+limit = 3 sum = 897 max = 10071 type = R units = 131
+limit = 2 sum = 1384 max = 10071 type = C units = 487
+limit = 2 sum = 1901 max = 10071 type = C units = 517
+limit = 2 sum = 2307 max = 10071 type = C units = 406
+limit = 2 sum = 3081 max = 10071 type = R units = 774
+limit = 1 sum = 3092 max = 10071 type = C units = 11
+limit = 1 sum = 3344 max = 10071 type = C units = 252
+limit = 1 sum = 3781 max = 10071 type = R units = 437
+limit = 0 sum = 4111 max = 10071 type = C units = 165
+===============================================================================================
+limit = 4 sum = 131 max = 10071 type = R units = 131
+limit = 3 sum = 618 max = 10071 type = C units = 487
+limit = 3 sum = 1135 max = 10071 type = C units = 517
+limit = 3 sum = 1541 max = 10071 type = C units = 406
+limit = 3 sum = 2315 max = 10071 type = R units = 774
+limit = 2 sum = 2326 max = 10071 type = C units = 11
+limit = 2 sum = 2578 max = 10071 type = C units = 252
+limit = 2 sum = 3015 max = 10071 type = R units = 437
+limit = 1 sum = 3180 max = 10071 type = C units = 165
+limit = 1 sum = 3245 max = 10071 type = R units = 65
+===============================================================================================
+limit = 4 sum = 487 max = 10071 type = C units = 487
+limit = 4 sum = 1004 max = 10071 type = C units = 517
+limit = 4 sum = 1410 max = 10071 type = C units = 406
+limit = 4 sum = 2184 max = 10071 type = R units = 774
+limit = 3 sum = 2195 max = 10071 type = C units = 11
+limit = 3 sum = 2447 max = 10071 type = C units = 252
+limit = 3 sum = 2884 max = 10071 type = R units = 437
+limit = 2 sum = 3049 max = 10071 type = C units = 165
+limit = 2 sum = 3114 max = 10071 type = R units = 65
+limit = 1 sum = 3773 max = 10071 type = R units = 659
+limit = 0 sum = 4563 max = 10071 type = C units = 395
+===============================================================================================
+limit = 4 sum = 517 max = 10071 type = C units = 517
+limit = 4 sum = 923 max = 10071 type = C units = 406
+limit = 4 sum = 1697 max = 10071 type = R units = 774
+limit = 3 sum = 1708 max = 10071 type = C units = 11
+limit = 3 sum = 1960 max = 10071 type = C units = 252
+limit = 3 sum = 2397 max = 10071 type = R units = 437
+limit = 2 sum = 2562 max = 10071 type = C units = 165
+limit = 2 sum = 2627 max = 10071 type = R units = 65
+limit = 1 sum = 3286 max = 10071 type = R units = 659
+limit = 0 sum = 4076 max = 10071 type = C units = 395
+===============================================================================================
+limit = 4 sum = 406 max = 10071 type = C units = 406
+limit = 4 sum = 1180 max = 10071 type = R units = 774
+limit = 3 sum = 1191 max = 10071 type = C units = 11
+limit = 3 sum = 1443 max = 10071 type = C units = 252
+limit = 3 sum = 1880 max = 10071 type = R units = 437
+limit = 2 sum = 2045 max = 10071 type = C units = 165
+limit = 2 sum = 2110 max = 10071 type = R units = 65
+limit = 1 sum = 2769 max = 10071 type = R units = 659
+limit = 0 sum = 3559 max = 10071 type = C units = 395
+===============================================================================================
+limit = 4 sum = 774 max = 10071 type = R units = 774
+limit = 3 sum = 785 max = 10071 type = C units = 11
+limit = 3 sum = 1037 max = 10071 type = C units = 252
+limit = 3 sum = 1474 max = 10071 type = R units = 437
+limit = 2 sum = 1639 max = 10071 type = C units = 165
+limit = 2 sum = 1704 max = 10071 type = R units = 65
+limit = 1 sum = 2363 max = 10071 type = R units = 659
+limit = 0 sum = 3153 max = 10071 type = C units = 395
+===============================================================================================
+limit = 4 sum = 11 max = 10071 type = C units = 11
+limit = 4 sum = 263 max = 10071 type = C units = 252
+limit = 4 sum = 700 max = 10071 type = R units = 437
+limit = 3 sum = 865 max = 10071 type = C units = 165
+limit = 3 sum = 930 max = 10071 type = R units = 65
+limit = 2 sum = 1589 max = 10071 type = R units = 659
+limit = 1 sum = 1984 max = 10071 type = C units = 395
+limit = 1 sum = 2097 max = 10071 type = R units = 113
+limit = 0 sum = 3943 max = 10071 type = C units = 923
+===============================================================================================
+limit = 4 sum = 252 max = 10071 type = C units = 252
+limit = 4 sum = 689 max = 10071 type = R units = 437
+limit = 3 sum = 854 max = 10071 type = C units = 165
+limit = 3 sum = 919 max = 10071 type = R units = 65
+limit = 2 sum = 1578 max = 10071 type = R units = 659
+limit = 1 sum = 1973 max = 10071 type = C units = 395
+limit = 1 sum = 2086 max = 10071 type = R units = 113
+limit = 0 sum = 3932 max = 10071 type = C units = 923
+===============================================================================================
+limit = 4 sum = 437 max = 10071 type = R units = 437
+limit = 3 sum = 602 max = 10071 type = C units = 165
+limit = 3 sum = 667 max = 10071 type = R units = 65
+limit = 2 sum = 1326 max = 10071 type = R units = 659
+limit = 1 sum = 1721 max = 10071 type = C units = 395
+limit = 1 sum = 1834 max = 10071 type = R units = 113
+limit = 0 sum = 3680 max = 10071 type = C units = 923
+===============================================================================================
+limit = 4 sum = 165 max = 10071 type = C units = 165
+limit = 4 sum = 230 max = 10071 type = R units = 65
+limit = 3 sum = 889 max = 10071 type = R units = 659
+limit = 2 sum = 1284 max = 10071 type = C units = 395
+limit = 2 sum = 1397 max = 10071 type = R units = 113
+limit = 1 sum = 2320 max = 10071 type = C units = 923
+limit = 1 sum = 2818 max = 10071 type = R units = 498
+===============================================================================================
+limit = 4 sum = 65 max = 10071 type = R units = 65
+limit = 3 sum = 724 max = 10071 type = R units = 659
+limit = 2 sum = 1119 max = 10071 type = C units = 395
+limit = 2 sum = 1232 max = 10071 type = R units = 113
+limit = 1 sum = 2155 max = 10071 type = C units = 923
+limit = 1 sum = 2653 max = 10071 type = R units = 498
+===============================================================================================
+limit = 4 sum = 659 max = 10071 type = R units = 659
+limit = 3 sum = 1054 max = 10071 type = C units = 395
+limit = 3 sum = 1167 max = 10071 type = R units = 113
+limit = 2 sum = 2090 max = 10071 type = C units = 923
+limit = 2 sum = 2588 max = 10071 type = R units = 498
+limit = 1 sum = 3098 max = 10071 type = R units = 510
+===============================================================================================
+limit = 4 sum = 395 max = 10071 type = C units = 395
+limit = 4 sum = 508 max = 10071 type = R units = 113
+limit = 3 sum = 1431 max = 10071 type = C units = 923
+limit = 3 sum = 1929 max = 10071 type = R units = 498
+limit = 2 sum = 2439 max = 10071 type = R units = 510
+limit = 1 sum = 2892 max = 10071 type = R units = 453
+===============================================================================================
+limit = 4 sum = 113 max = 10071 type = R units = 113
+limit = 3 sum = 1036 max = 10071 type = C units = 923
+limit = 3 sum = 1534 max = 10071 type = R units = 498
+limit = 2 sum = 2044 max = 10071 type = R units = 510
+limit = 1 sum = 2497 max = 10071 type = R units = 453
+===============================================================================================
+limit = 4 sum = 923 max = 10071 type = C units = 923
+limit = 4 sum = 1421 max = 10071 type = R units = 498
+limit = 3 sum = 1931 max = 10071 type = R units = 510
+limit = 2 sum = 2384 max = 10071 type = R units = 453
+limit = 1 sum = 2512 max = 10071 type = R units = 128
+===============================================================================================
+limit = 4 sum = 498 max = 10071 type = R units = 498
+limit = 3 sum = 1008 max = 10071 type = R units = 510
+limit = 2 sum = 1461 max = 10071 type = R units = 453
+limit = 1 sum = 1589 max = 10071 type = R units = 128
+===============================================================================================
+limit = 4 sum = 510 max = 10071 type = R units = 510
+limit = 3 sum = 963 max = 10071 type = R units = 453
+limit = 2 sum = 1091 max = 10071 type = R units = 128
+limit = 1 sum = 1745 max = 10071 type = R units = 654
+===============================================================================================
+limit = 4 sum = 453 max = 10071 type = R units = 453
+limit = 3 sum = 581 max = 10071 type = R units = 128
+limit = 2 sum = 1235 max = 10071 type = R units = 654
+limit = 1 sum = 1444 max = 10071 type = R units = 209
+===============================================================================================
+limit = 4 sum = 128 max = 10071 type = R units = 128
+limit = 3 sum = 782 max = 10071 type = R units = 654
+limit = 2 sum = 991 max = 10071 type = R units = 209
+limit = 1 sum = 1784 max = 10071 type = R units = 793
+===============================================================================================
+limit = 4 sum = 654 max = 10071 type = R units = 654
+limit = 3 sum = 863 max = 10071 type = R units = 209
+limit = 2 sum = 1656 max = 10071 type = R units = 793
+limit = 1 sum = 2379 max = 10071 type = R units = 723
+limit = 0 sum = 3369 max = 10071 type = C units = 495
+limit = 0 sum = 4313 max = 10071 type = C units = 472
+limit = 0 sum = 5109 max = 10071 type = C units = 398
+===============================================================================================
+limit = 4 sum = 209 max = 10071 type = R units = 209
+limit = 3 sum = 1002 max = 10071 type = R units = 793
+limit = 2 sum = 1725 max = 10071 type = R units = 723
+limit = 1 sum = 2220 max = 10071 type = C units = 495
+limit = 1 sum = 2692 max = 10071 type = C units = 472
+limit = 1 sum = 3090 max = 10071 type = C units = 398
+limit = 1 sum = 4060 max = 10071 type = R units = 970
+limit = 0 sum = 5652 max = 10071 type = C units = 796
+===============================================================================================
+limit = 4 sum = 793 max = 10071 type = R units = 793
+limit = 3 sum = 1516 max = 10071 type = R units = 723
+limit = 2 sum = 2011 max = 10071 type = C units = 495
+limit = 2 sum = 2483 max = 10071 type = C units = 472
+limit = 2 sum = 2881 max = 10071 type = C units = 398
+limit = 2 sum = 3851 max = 10071 type = R units = 970
+limit = 1 sum = 4647 max = 10071 type = C units = 796
+limit = 1 sum = 5134 max = 10071 type = R units = 487
+===============================================================================================
+limit = 4 sum = 723 max = 10071 type = R units = 723
+limit = 3 sum = 1218 max = 10071 type = C units = 495
+limit = 3 sum = 1690 max = 10071 type = C units = 472
+limit = 3 sum = 2088 max = 10071 type = C units = 398
+limit = 3 sum = 3058 max = 10071 type = R units = 970
+limit = 2 sum = 3854 max = 10071 type = C units = 796
+limit = 2 sum = 4341 max = 10071 type = R units = 487
+limit = 1 sum = 4709 max = 10071 type = R units = 368
+===============================================================================================
+limit = 4 sum = 495 max = 10071 type = C units = 495
+limit = 4 sum = 967 max = 10071 type = C units = 472
+limit = 4 sum = 1365 max = 10071 type = C units = 398
+limit = 4 sum = 2335 max = 10071 type = R units = 970
+limit = 3 sum = 3131 max = 10071 type = C units = 796
+limit = 3 sum = 3618 max = 10071 type = R units = 487
+limit = 2 sum = 3986 max = 10071 type = R units = 368
+limit = 1 sum = 4809 max = 10071 type = R units = 823
+10071

@@ -1,0 +1,52 @@
+private  static int sumMaxChocs(StackBLL<Block> stack) {
+if(stack.empty()) { 
+             System.out.println(0); 
+} 
+LinkNode<Block> anchor = stack.getHead(); 
+if(anchor == null) { 
+return 0; 
+} 
+int sum = 0; 
+int max = 0; 
+int limit; 
+boolean hitBottom = false; 
+
+while(hitBottom == false) { 
+sum = 0; 
+LinkNode<Block> temp = anchor; 
+limit = K; 
+System.out.println("=====================================================================================
+
+while(limit > -1) { 
+if(limit == 0) { 
+if(temp.getElem().getT().equals("C")) { 
+sum += temp.getElem().getC(); 
+} 
+else { 
+break; 
+} 
+} 
+sum += temp.getElem().getC(); 
+System.out.println("limit = " + limit + " sum = " + sum + " max = " + max + " type = " + temp.getElem
+if(temp.getElem().getT().equals("R")) { 
+limit--; 
+} 
+
+temp = temp.getNext(); 
+if(temp == null) { 
+hitBottom = true; 
+break; 
+} 
+} 
+
+if(sum > max) { 
+max = sum; 
+} 
+if(hitBottom == true) { 
+break; 
+} 
+anchor = anchor.getNext(); 
+} 
+return max; 
+} 
+																			  
