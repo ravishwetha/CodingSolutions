@@ -11,15 +11,21 @@ public class Solution {
 		int sum = 0;
 		for(int i=11; i<limit; i++) {
 			String str = Integer.toString(i);
-			if(potentialDivisor(str) && rightRotate(str)%i == 0) sum += i;
+			if(!potentialDivisor(str)) continue;
+			else if(rightRotate(str)%i == 0) {
+				sum += i;
+				//System.out.println("hit = " + i);
+			}
 		}
 
 		System.out.println(last5Digits(sum));
 	}
 
 	private static boolean potentialDivisor(String str) {
-		if(str.charAt(0)*2 <= str.charAt(1)) return false;
-		else return true;
+		int d0 = Character.getNumericValue(str.charAt(0));
+		int d1 = Character.getNumericValue(str.charAt(1));
+		if(d1 >= d0*2 || d0 == d1) return true;
+		else return false;
 	}
 
 	private static int rightRotate(String str) {
